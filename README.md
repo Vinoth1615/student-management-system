@@ -37,31 +37,8 @@ This project is a Student Management System designed to manage and organize stud
     ```sh
     cd student-management-system
     ```
-3. Install dependencies:
-    ```sh
-    # For Node.js/JavaScript
-    npm install
 
-    # For Python
-    pip install -r requirements.txt
 
-    # For Java or others, mention the build tool
-    ```
-
-### Usage
-
-1. Run the application:
-    ```sh
-    # For Node.js
-    npm start
-
-    # For Python
-    python app.py
-
-    # For Java (Spring Boot)
-    ./mvnw spring-boot:run
-    ```
-2. Open your browser and go to `http://localhost:3000` (or the appropriate port)
 
 ## Contributing
 
